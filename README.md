@@ -13,12 +13,12 @@ Add a style tag to the head of your webpage. You can either add the style rules 
 STEP3:
 Add a text document named styles.css add the following snippet to the top of the document:
 
-<code>
+```
 p {
   font-size:24px;
   font-family:arial;
 }
-</code>
+```
 
 the code will change the styles of all instances of a p tag in your document.
 
